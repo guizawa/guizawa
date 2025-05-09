@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Guilherme messias</h1>
-<h3 align="center">Estudante de gestão de TI aprendendo a programar em python</h3>
+<h1 align="center">Olá me chamado Guilherme messias! 👋</h1>
+<h3 align="center">Bem vindo ao meu perfil do GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guizawa&label=Profile%20views&color=0e75b6&style=flat" alt="guizawa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guizawa" alt="guizawa" /></a> </p>
+ 
 
-- desempregado **desempregado**
+- 📚 formado pela FMU em 2024.
+- 🏫 Eu trabalho para Secretaria de educação da cidade de São Paulo na função de Analista de Qualidade.
+- 📊 Estou estudando Analise de dados.
 
-- 🌱 I’m currently learning python **anaconda**
-
-- 👯 I’m looking to collaborate on qualquer **projeto de python**
-
-- 📫 How to reach me **guilherme.messias.ssilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
